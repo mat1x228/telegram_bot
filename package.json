@@ -5,6 +5,6 @@
     "telegraf": "^4.12.2"
   },
   "scripts": {
-    "start": "node scripts.js"
+    "start": "node script.js"
   }
 }
